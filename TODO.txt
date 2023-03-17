@@ -1,0 +1,2 @@
+TODO:
+Crear un repositorio en GitHub para practicar Listas en Python. Continuar con el juego del Snake AI
