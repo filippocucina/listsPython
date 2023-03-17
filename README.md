@@ -1,2 +1,2 @@
-# listsPython
-Lists in Python
+# ListsPython
+Practicing Lists in Python
